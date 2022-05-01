@@ -1,6 +1,6 @@
 This repo is one of the projects in the [15-780](https://www.cs.cmu.edu/~./15780/#project) course (Graduate Artificial Intelligence, Spring'22) of CMU.
 
-It reproduces a part of Figure 2 of the paper [Can We Predict the Election Outcome from Sampled Votes?](https://ojs.aaai.org/index.php/AAAI/article/view/5593) in AAAI-20.
+It replicates a part of Figure 2 of the paper [Can We Predict the Election Outcome from Sampled Votes?](https://ojs.aaai.org/index.php/AAAI/article/view/5593) in AAAI-20.
 
 It also computes the top-k average-case predictability. (Can we predict the top-k election outcome instead of the full outcome?) In some cases, for example, we only care about the top-1 election outcome.
 
